@@ -1,0 +1,6 @@
+设备"散热器"的BaseModuleID是"25092119192771617"
+设备"散热器"的型号参数有:
+"Radiator3"
+"Radiator5"
+"Radiator10"
+"Radiator20"

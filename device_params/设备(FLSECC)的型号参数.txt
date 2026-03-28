@@ -1,0 +1,2 @@
+设备"FLSECC"的BaseModuleID是"25041019275796828"
+设备"FLSECC"的型号参数有:

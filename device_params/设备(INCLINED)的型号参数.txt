@@ -1,0 +1,2 @@
+设备"INCLINED"的BaseModuleID是"25041019275800928"
+设备"INCLINED"的型号参数有:

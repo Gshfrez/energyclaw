@@ -1,0 +1,2 @@
+设备"ZWXXDC"的BaseModuleID是"25041019275803328"
+设备"ZWXXDC"的型号参数有:

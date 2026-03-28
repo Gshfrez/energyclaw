@@ -1,0 +1,269 @@
+﻿{
+    "DeviceNb": 24,
+    "DeviceInfo": [
+        {
+            "设备": 0,
+            "InstanceID": 0,
+            "设备类型": "管壳式换热器",
+            "BaseModuelID": 24032321240015392,
+            "FluidType": 0,
+            "PositionX": 510,
+            "PositionZ": 490,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 1,
+            "InstanceID": 1,
+            "设备类型": "管壳式换热器",
+            "BaseModuelID": 24032321240015392,
+            "FluidType": 0,
+            "PositionX": 650,
+            "PositionZ": 150,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 2,
+            "InstanceID": 2,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 380,
+            "PositionZ": 130,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 3,
+            "InstanceID": 3,
+            "设备类型": "压缩机",
+            "BaseModuelID": 24032321240003492,
+            "FluidType": 0,
+            "PositionX": 70,
+            "PositionZ": 120,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 4,
+            "InstanceID": 4,
+            "设备类型": "毛细节流阀",
+            "BaseModuelID": 24032321240018492,
+            "FluidType": 0,
+            "PositionX": 1080,
+            "PositionZ": 330,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 5,
+            "InstanceID": 5,
+            "设备类型": "截止阀",
+            "BaseModuelID": 24030917322826102,
+            "FluidType": 0,
+            "PositionX": 1080,
+            "PositionZ": 180,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 6,
+            "InstanceID": 6,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 670,
+            "PositionZ": 320,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 7,
+            "InstanceID": 7,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 1080,
+            "PositionZ": 270,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 8,
+            "InstanceID": 8,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 820,
+            "PositionZ": 430,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 9,
+            "InstanceID": 9,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 640,
+            "PositionZ": 610,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 10,
+            "InstanceID": 10,
+            "设备类型": "容积型源头",
+            "BaseModuelID": 24032321240014592,
+            "FluidType": 0,
+            "PositionX": 270,
+            "PositionZ": 190,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 11,
+            "InstanceID": 11,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 410,
+            "PositionZ": 180,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 12,
+            "InstanceID": 12,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 330,
+            "PositionZ": 420,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 13,
+            "InstanceID": 13,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 500,
+            "PositionZ": 260,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 14,
+            "InstanceID": 14,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 340,
+            "PositionZ": 530,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 15,
+            "InstanceID": 15,
+            "设备类型": "容积型源头",
+            "BaseModuelID": 24032321240014592,
+            "FluidType": 0,
+            "PositionX": 120,
+            "PositionZ": 430,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 16,
+            "InstanceID": 16,
+            "设备类型": "泵曲线法",
+            "BaseModuelID": 24032321240011392,
+            "FluidType": 0,
+            "PositionX": 230,
+            "PositionZ": 410,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 17,
+            "InstanceID": 17,
+            "设备类型": "泵曲线法",
+            "BaseModuelID": 24032321240011392,
+            "FluidType": 0,
+            "PositionX": 340,
+            "PositionZ": 170,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 18,
+            "InstanceID": 18,
+            "设备类型": "截止阀",
+            "BaseModuelID": 24030917322826102,
+            "FluidType": 0,
+            "PositionX": 480,
+            "PositionZ": 160,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 19,
+            "InstanceID": 19,
+            "设备类型": "截止阀",
+            "BaseModuelID": 24030917322826102,
+            "FluidType": 0,
+            "PositionX": 450,
+            "PositionZ": 400,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 20,
+            "InstanceID": 20,
+            "设备类型": "管道通用",
+            "BaseModuelID": 24032022192805856,
+            "FluidType": 0,
+            "PositionX": 1080,
+            "PositionZ": 120,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "设备": 21,
+            "InstanceID": 21,
+            "设备类型": "截止阀",
+            "BaseModuelID": 24030917322826102,
+            "FluidType": 0,
+            "PositionX": 1150,
+            "PositionZ": 460,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "节点": 22,
+            "InstanceID": 0,
+            "设备类型": "FLUID",
+            "BaseModuelID": 3000,
+            "FluidType": 0,
+            "PositionX": 960,
+            "PositionZ": 170,
+            "RoomID": 0,
+            "ModelID": ""
+        },
+        {
+            "节点": 23,
+            "InstanceID": 1,
+            "设备类型": "FLUID",
+            "BaseModuelID": 3000,
+            "FluidType": 0,
+            "PositionX": 1020,
+            "PositionZ": 430,
+            "RoomID": 0,
+            "ModelID": ""
+        }
+    ]
+}

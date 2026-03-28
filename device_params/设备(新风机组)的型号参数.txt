@@ -1,0 +1,11 @@
+设备"新风机组"的BaseModuleID是"25092119192773017"
+设备"新风机组"的型号参数有:
+"BYKJD1"
+"BYKJD1.5"
+"BYKJD2"
+"BYKJD2.5"
+"BYKJD3"
+"BYKJD3.5"
+"BYKJD4"
+"BYKJD5"
+"BYKJD12"

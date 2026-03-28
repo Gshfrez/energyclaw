@@ -1,0 +1,7 @@
+设备"太阳能集热器"的BaseModuleID是"25092117163842532"
+设备"太阳能集热器"的型号参数有:
+"SolCOR5"
+"SolCOR10"
+"SolCOR15"
+"SolCOR20"
+"SolCOR30"

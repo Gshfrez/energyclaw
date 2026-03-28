@@ -1,0 +1,10 @@
+设备"管壳式换热器"的BaseModuleID是"24032321240015392"
+设备"管壳式换热器"的型号参数有:
+"BFWN2G"
+"BFWN4G"
+"BFWN6G"
+"BFWN10G"
+"BFWN15G"
+"BFWN25G"
+"BFWN50G"
+"BFWN65G"
